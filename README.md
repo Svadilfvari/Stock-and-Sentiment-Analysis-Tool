@@ -14,4 +14,4 @@ This project explores the relationship between public sentiment and stock price 
 
 The plot below shows the normalized sentiment trend and stock price movements for a specified stock:
 
-![Example Figure](./path_to_figure.png)
+![Example Figure](./NormalizedSentimentStockPricesAAPL.png)
